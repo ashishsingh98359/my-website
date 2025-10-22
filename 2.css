@@ -1,0 +1,32 @@
+h1{
+    color:aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    text-align: center;
+    border-style: solid;
+    background-color: black;
+}
+ol{
+    color: green;
+    font-size: xx-large;
+    font-weight: 600;
+    font-style: normal;
+    list-style-type: upper-roman;
+}
+ol li pre{ 
+    color: red;
+    font-size: xx-large;
+    font-style: italic;
+    list-style-type: lower-alpha;
+    border-style: inset;
+}
+img{
+    clear: right;
+    border-style: dotted;
+    border-color: blue;
+}
+hr{
+    width: 500;
+    background-color: gold;
+    height: 3;
+}
